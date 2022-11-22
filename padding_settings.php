@@ -34,6 +34,7 @@ $paddingBottomOptions = [
     'lg:u-pb-large' => t("@lg:large"),
 ];
 
+// use this as a field in your block config
 $paddingTopSettingsField = [
     "type"        => "MultipleSelect",
     "label"       => t("Padding Top Settings"),
@@ -51,6 +52,7 @@ $paddingTopSettingsField = [
 	],
 ];
 
+// use this as a field in your block config
 $paddingBottomSettingsField = [
     "type"        => "MultipleSelect",
     "label"       => t("Padding Bottom Settings"),
