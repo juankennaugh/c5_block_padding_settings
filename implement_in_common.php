@@ -2,7 +2,7 @@
  * Padding settings using blocks/_config/padding_settings.php
  */
 
- // padding sizes (size type and size '8pt sizing' value)
+// padding sizes (size type and size '8pt sizing' value)
 // set your types and values here
 $paddingSizes = [
     'none' => '0',
